@@ -136,13 +136,7 @@ The core notebook can demonstrate the calculations and RAG retrieval without net
 - Recommendations are decision support, not purchasing guarantees or automated trades.
 - This notebook does not connect to eBay or other marketplaces to execute transactions.
 
-## Submission checklist
 
-- [ ] Notebook opens and runs from the first cell through the last.
-- [ ] Offline demonstration works; live AI path tested if presenting it as live.
-- [ ] README and the architecture diagram are included.
-- [ ] No API credentials or private customer data are included in submissions.
 
 ---
 
-*CardScout AI is an educational prototype. Its prices and profits are illustrative and should not be used for purchases without independent verification.*
