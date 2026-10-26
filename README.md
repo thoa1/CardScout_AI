@@ -1,4 +1,4 @@
-# CardScout AI 🃏
+# CardScout AI
 
 **An AI-assisted sports card inventory analyzer and purchase-planning notebook**  
 One-week AI application hackathon | Python / Jupyter Notebook
